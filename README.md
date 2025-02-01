@@ -45,7 +45,7 @@ The extension requires the following permissions:
 
 ## 🎨 Preview
 
-<img src="/MY_JS_PROJECTS/Lead-Snap/Screenshot.png" alt="LeadSnap Extension Preview" width="400"/>
+<img src="./Screenshot.png" alt="LeadSnap Extension Preview" width="400"/>
 
 ## 🤝 Contributing
 
